@@ -1,7 +1,5 @@
 Win-Prediction-Analysis
-image
 
-Image Source : http://saiindia.net/wp-content/uploads/2015/05/Win-Loss-Analysis-2.jpg
 
 In the fast-paced world of IT consulting, winning lucrative deals is a game-changer. This project embarks on a data-driven journey to not only predict the probability of winning deals but also to discover the winning combinations of Bid Managers and SBU (Strategic Business Unit) Heads. The insights gleaned from this endeavor will empower the IT consulting company to strategically allocate resources, prioritize opportunities, and, ultimately, meet ambitious growth targets.
 
